@@ -21,4 +21,4 @@ our Three-Wave Mixing Kinetic Inductance Traveling-Wave Amplifier. Our model,
 based on , demonstrates the potential for this amplifier to improve readout
 signals in quantum computers, addressing a major challenge in the field.
 
-The Thesis is in Pdf format and is accacible for reading
+This repository contains my thesis in PDF format, which can be accessed and downloaded for reading.
